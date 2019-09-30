@@ -1,0 +1,5 @@
+uas\momon\model\TabunganModel.class
+uas\momon\repository\TabunganRepository.class
+uas\momon\controller\TabunganController.class
+uas\momon\dao\TabunganDao.class
+uas\momon\TabunganApplication.class
